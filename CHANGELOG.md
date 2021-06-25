@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.1 (2021-06-25)
+ * Updated league/glysystem dependencies to avoid vulnerabilities
+
 ## 1.2.0 (2015-12-13)
 
  * Append the adapter root to allow relative paths.
