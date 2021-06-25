@@ -1,5 +1,5 @@
 {
-    "name": "falc/flysystem-sftp-symlink-plugin",
+    "name": "starikovm/flysystem-sftp-symlink-plugin",
     "description": "Sftp symlink plugin for Flysystem.",
     "keywords": ["sftp", "symlink", "flysystem", "plugin"],
     "type": "library",
